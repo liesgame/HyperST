@@ -1,0 +1,24 @@
+{
+    "train_sample": [
+        "MISC17",
+        "MISC18",
+        "MISC22",
+        "MISC31",
+        "MISC30",
+        "MISC28",
+        "MISC25",
+        "MISC26",
+        "MISC19",
+        "MISC32",
+        "MISC21",
+        "MISC24"
+    ],
+    "val_sample": [
+        "MISC27",
+        "MISC29"
+    ],
+    "test_sample": [
+        "MISC20",
+        "MISC23"
+    ]
+}

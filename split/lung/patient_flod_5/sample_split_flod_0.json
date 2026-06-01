@@ -1,0 +1,35 @@
+{
+    "train_sample": [
+        "MISC28",
+        "MISC27",
+        "MISC24",
+        "MISC23",
+        "MISC32",
+        "MISC31",
+        "MISC30",
+        "MISC29",
+        "MISC20",
+        "MISC19"
+    ],
+    "train_patient": [
+        "A50",
+        "A42",
+        "A48"
+    ],
+    "val_sample": [
+        "MISC26",
+        "MISC22",
+        "MISC18",
+        "MISC17"
+    ],
+    "val_patient": [
+        "A37"
+    ],
+    "test_sample": [
+        "MISC25",
+        "MISC21"
+    ],
+    "test_patient": [
+        "A47"
+    ]
+}

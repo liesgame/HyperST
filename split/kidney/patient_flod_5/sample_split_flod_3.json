@@ -1,0 +1,59 @@
+{
+    "train_sample": [
+        "NCBI706",
+        "NCBI711",
+        "NCBI705",
+        "NCBI702",
+        "NCBI701",
+        "NCBI699",
+        "NCBI708",
+        "NCBI694",
+        "NCBI713",
+        "NCBI697",
+        "NCBI695",
+        "NCBI712",
+        "NCBI693",
+        "NCBI692",
+        "NCBI696",
+        "NCBI709",
+        "NCBI700",
+        "NCBI698",
+        "NCBI714"
+    ],
+    "train_patient": [
+        "Patient 9",
+        "Patient 4",
+        "Patient 10",
+        "Patient 13",
+        "Patient 15",
+        "Patient 7",
+        "Patient 20",
+        "Patient 2",
+        "Patient 17",
+        "Patient 19",
+        "Patient 3",
+        "Patient 21",
+        "Patient 22",
+        "Patient 18",
+        "Patient 6",
+        "Patient 14",
+        "Patient 16",
+        "Patient 1"
+    ],
+    "val_sample": [
+        "NCBI704",
+        "NCBI703"
+    ],
+    "val_patient": [
+        "Patient 11",
+        "Patient 12"
+    ],
+    "test_sample": [
+        "NCBI710",
+        "NCBI707"
+    ],
+    "test_patient": [
+        "Patient 5",
+        "Patient 8"
+    ]
+}

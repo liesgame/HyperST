@@ -1,0 +1,1 @@
+nohup python ./dataset_preprocess.py --data_root ./hest1k_datasets --dataset kidney > ./preprocess_kidney.log 2>&1 &

@@ -1,0 +1,35 @@
+{
+    "train_sample": [
+        "ZEN49",
+        "ZEN48",
+        "ZEN47",
+        "ZEN46",
+        "ZEN41",
+        "ZEN37",
+        "ZEN45",
+        "ZEN44",
+        "ZEN42",
+        "ZEN38"
+    ],
+    "train_patient": [
+        "Patient 1",
+        "Patient 2",
+        "Patient 6",
+        "Patient 3",
+        "Patient 5"
+    ],
+    "val_sample": [
+        "ZEN43",
+        "ZEN39"
+    ],
+    "val_patient": [
+        "Patient 4"
+    ],
+    "test_sample": [
+        "ZEN40",
+        "ZEN36"
+    ],
+    "test_patient": [
+        "Patient 7"
+    ]
+}

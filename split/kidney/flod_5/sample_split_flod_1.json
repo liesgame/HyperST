@@ -1,0 +1,31 @@
+{
+    "train_sample": [
+        "NCBI710",
+        "NCBI693",
+        "NCBI697",
+        "NCBI692",
+        "NCBI702",
+        "NCBI699",
+        "NCBI696",
+        "NCBI704",
+        "NCBI700",
+        "NCBI695",
+        "NCBI698",
+        "NCBI712",
+        "NCBI694",
+        "NCBI711",
+        "NCBI709",
+        "NCBI705",
+        "NCBI706",
+        "NCBI707",
+        "NCBI701"
+    ],
+    "val_sample": [
+        "NCBI708",
+        "NCBI714"
+    ],
+    "test_sample": [
+        "NCBI713",
+        "NCBI703"
+    ]
+}

@@ -1,0 +1,1 @@
+python ./split_sample.py --data_root ./hest1k_datasets --dataset kidney

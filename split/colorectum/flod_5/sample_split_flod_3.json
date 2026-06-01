@@ -1,0 +1,22 @@
+{
+    "train_sample": [
+        "ZEN38",
+        "ZEN46",
+        "ZEN43",
+        "ZEN48",
+        "ZEN45",
+        "ZEN41",
+        "ZEN47",
+        "ZEN36",
+        "ZEN39",
+        "ZEN37",
+        "ZEN49",
+        "ZEN44"
+    ],
+    "val_sample": [
+        "ZEN40"
+    ],
+    "test_sample": [
+        "ZEN42"
+    ]
+}
